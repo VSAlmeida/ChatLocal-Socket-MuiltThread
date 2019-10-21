@@ -1,0 +1,29 @@
+C:\Users\Rogério\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Rogério\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Rogério\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Rogério\Desktop\Server\Server\obj\Debug\Server.pdb
+E:\Linguagem de Programação 4\Chat2\Server\Server\bin\Debug\Server.exe.config
+E:\Linguagem de Programação 4\Chat2\Server\Server\bin\Debug\Server.exe
+E:\Linguagem de Programação 4\Chat2\Server\Server\bin\Debug\Server.pdb
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.Form1.resources
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.exe
+E:\Linguagem de Programação 4\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\bin\Debug\Server.exe.config
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\bin\Debug\Server.exe
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\bin\Debug\Server.pdb
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.exe
+C:\Users\ViniciusSebadelhedeA\Desktop\Chat2\Server\Server\obj\Debug\Server.pdb
